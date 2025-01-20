@@ -20,12 +20,11 @@ Este é um programa simples desenvolvido em **Java** que calcula e exibe a **tab
    ```bash
    java Tabuada
    
-##🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 - Java
 
-##✨ Exemplo de execução
-
-##✨ Exemplo de execução
+ 
+## ✨ Exemplo de execução
    Digite um número para calcular a tabuada (ou escreva 'sair' para encerrar):
    
    5
