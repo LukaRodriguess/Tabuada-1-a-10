@@ -27,11 +27,17 @@ Este é um programa simples desenvolvido em **Java** que calcula e exibe a **tab
 
 ##✨ Exemplo de execução
    Digite um número para calcular a tabuada (ou escreva 'sair' para encerrar):
+   
    5
+
    Tabuada do 5:
+   
    5 x 1 = 5
+   
    5 x 2 = 10
+   
    ...
+   
    5 x 10 = 50
 
 
